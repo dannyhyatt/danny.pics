@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan&#39;s Pics</title>
+    <link>https://danny.pics/</link>
+    <description>Recent content on Dan&#39;s Pics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://danny.pics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

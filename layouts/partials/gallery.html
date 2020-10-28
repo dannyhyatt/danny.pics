@@ -1,0 +1,9 @@
+<div id="pics">
+{{ range (readDir (print "/static/" ( .Scratch.Get "dir" ))) }}
+<a href="/screenshots/{{ .Name }}">
+  <figure>
+    <img src="/screenshots/{{ .Name }}">
+  </figure>
+</a>
+{{ end }}
+</div>
